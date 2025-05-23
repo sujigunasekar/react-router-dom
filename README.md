@@ -263,8 +263,8 @@ h2 {
 }
 ```
 ## src/components/Navbar.css
-css
 
+```
 .navbar {
   background-color: #0077cc;
   padding: 1rem;
